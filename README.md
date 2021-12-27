@@ -1,5 +1,9 @@
 A simple Debian packager for i3status-rust
 
+Usage:
+
+ ./build
+
 Notes:
 
 - Half-baked. It depends on some files that were created externally (but they work).
@@ -13,3 +17,4 @@ Notes:
 
 - Regolith is in the name to avoid collisions (in case an official package comes
   out), but since all work has been merged upstream it's the mainstream i3status-rust. 
+
